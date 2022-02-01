@@ -1,4 +1,11 @@
 int main()
 {
-return 0;
+	int x;
+	int y;
+
+	cin >> x;
+	cin >> y;
+	cout << x + y;
+
+	return 0;
 }
